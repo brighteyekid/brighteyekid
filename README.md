@@ -1,6 +1,3 @@
-Here’s a **cool and technical GitHub profile README** inspired by *Watch Dogs* and *Mr. Robot*. I’ll incorporate hacking, cybersecurity terms, and references to make it feel like you're part of DedSec or Fsociety! 😎
-
----
 
 ```markdown
 # 💻 brighteyekid [a.k.a "fox in the system"]
