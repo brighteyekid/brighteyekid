@@ -2,14 +2,14 @@
 ```markdown
 # 💻 brighteyekid [a.k.a "fox in the system"]
 ---
-### 🔍 **"Hello, friend.**" 🐍
+🔍 **"Hello, friend.**" 🐍
 
 👾 **Welcome to my digital footprint.**  
 I'm a tech-savvy disruptor, CTF hunter, and a terminal-obsessed `cybersecurity student`. Inspired by DedSec and Fsociety, I live between `0s` and `1s`. Whether it’s pentesting a network, scripting exploits, or debugging kernels—there’s always a trace left behind.  
 
 ---
 
-## 🛠️ **Operating Systems & Tools**  
+🛠️ **Operating Systems & Tools**  
 ```plaintext
 > Terminal:   bash/zsh | tmux | neovim
 > OS:         Linux (Ubuntu) | Kali Linux
