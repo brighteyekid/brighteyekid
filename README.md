@@ -1,6 +1,6 @@
 
 ```markdown
-# 💻 brighteyekid [a.k.a "fox in the system"]
+💻 brighteyekid [a.k.a "fox in the system"]
 ---
 🔍 **"Hello, friend.**" 🐍
 
