@@ -10,7 +10,7 @@ I'm a tech-savvy disruptor, CTF hunter, and a terminal-obsessed `cybersecurity s
 ---
 
 🛠️ **Operating Systems & Tools**  
-```plaintext
+
 > Terminal:   bash/zsh | tmux | neovim
 > OS:         Linux (Ubuntu) | Kali Linux
 > Scripting:  TypeScript | Python | Bash
