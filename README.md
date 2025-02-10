@@ -11,7 +11,7 @@
 ```
 
 # // SYSTEM BREACH DETECTED
-## // IDENTIFYING TARGET: BrightEyeKid
+## // IDENTIFYING TARGET: BRIGHTEYEKID
 ### // ACCESSING PROFILE...
 
 ![Profile Status](https://img.shields.io/badge/DedSec-Active_Operator-brightgreen)
