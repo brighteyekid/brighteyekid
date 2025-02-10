@@ -266,8 +266,9 @@ $ sudo cat /var/log/dedsec/achievements.log
 ```
 
 </div>
+"You enabled 2FA, but they phished your second factor—you.</br>
 
-> "The world is a dangerous place, not because of those who do evil, but because of those who look on and do nothing. In the realm of technology, we are all responsible for the future we create. The question is: what future will you code into existence?"
+_(The weakest link was never the code.)_
 
 <div align="center">
 
