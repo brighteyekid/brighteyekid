@@ -277,8 +277,7 @@ $ sudo cat /var/log/dedsec/achievements.log
 ![Security Protocol](https://img.shields.io/badge/Security-Maximum-green)
 
 ---
-
-<img src="https://media.giphy.com/media/lRkGgX1WhWbk8zKXQE/giphy.gif?cid=790b7611s94yxu0w7guiidlunx2ghkyas6n48uvxbjt7o91v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="300" height="200">
+<img src="https://media.giphy.com/media/lRkGgX1WhWbk8zKXQE/giphy.gif?cid=790b7611s94yxu0w7guiidlunx2ghkyas6n48uvxbjt7o91v&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150" height="150">
 
 ```text
 // END OF TRANSMISSION
