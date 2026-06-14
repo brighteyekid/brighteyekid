@@ -14,7 +14,12 @@
 
 Shipped zero-dependency routing middleware with `701ns` overhead, a custom Debian OS with 5 native compatibility layers, and a real-time AI security pipeline powered by MCP and Gemini. Focused on AI system orchestration, deep-stack infrastructure, and high-performance interactive frontends.
 
-`chandrabhayal1604@gmail.com` &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; [chandra-is-dev.vercel.app](https://chandra-is-dev.vercel.app)
+<div align="left">
+  <a href="https://chandra-is-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/brighteyekid"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/chandrabhayal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:chandrabhayal1604@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
 Contract engineer for production startups across Globe — **Durell Flooring** · **Studio56 Animation**
 
@@ -88,7 +93,8 @@ VS Code extension scanning AI-generated and manual code in real time for OWASP T
 - NestJS/Prisma backend computes a live **Global Health Index** score and feeds a Next.js telemetry dashboard with real-time threat feed and historical risk trend charts
 - Turborepo monorepo
 
-→ **[github.com/AnjanyKumarJaiswal/AegisCode](https://github.com/AnjanyKumarJaiswal/AegisCode)** · [aegis-code.vercel.app](https://aegis-code.vercel.app)
+<a href="https://github.com/AnjanyKumarJaiswal/AegisCode"><img src="https://img.shields.io/badge/GitHub-AegisCode-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://aegis-code.vercel.app"><img src="https://img.shields.io/badge/Live-aegis--code.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 
 ---
 
@@ -99,7 +105,9 @@ Open source npm middleware solving SPA SEO without Puppeteer, paid services, or 
 - `701ns` overhead per real-user request · `108 tests` passing · `18kb` packed · `30+` bot signatures
 - Full TypeScript types · in-memory TTL cache · Schema.org JSON-LD builder
 
-→ **[github.com/brighteyekid/rendermw](https://github.com/brighteyekid/rendermw)** · [rendermw.vercel.app](https://rendermw.vercel.app)
+<a href="https://github.com/brighteyekid/rendermw"><img src="https://img.shields.io/badge/GitHub-rendermw-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="https://rendermw.vercel.app"><img src="https://img.shields.io/badge/Live-rendermw.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://www.npmjs.com/package/rendermw"><img src="https://img.shields.io/badge/npm-rendermw-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
 
 ---
 
@@ -107,7 +115,7 @@ Open source npm middleware solving SPA SEO without Puppeteer, paid services, or 
 
 Bootable custom Linux distribution built from scratch on Debian 12. Five native compatibility layers: Windows (`.exe`), macOS (`.app`), Android (`.apk`), Linux ELF, and Debian packages — all via a single GTK3 drag-and-drop launcher. Verified functional in QEMU and on real hardware.
 
-→ **[github.com/brighteyekid/Pavitra-OS](https://github.com/brighteyekid/Pavitra-OS)**
+<a href="https://github.com/brighteyekid/Pavitra-OS"><img src="https://img.shields.io/badge/GitHub-Pavitra--OS-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 ---
 
@@ -141,13 +149,16 @@ Bootable custom Linux distribution built from scratch on Debian 12. Five native 
 005 — ESTABLISH CONTACT
 ```
 
-**OPEN CHANNEL**
+**OPEN CHANNEL** &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; GMT+5:30 &nbsp;·&nbsp; ● Available for founding engineer roles & contracts — 2026
 
-`chandrabhayal1604@gmail.com` &nbsp;·&nbsp; `+91-7976428892` &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; GMT+5:30
-
-● Available for founding engineer roles & contracts — 2026
-
-[chandra-is-dev.vercel.app](https://chandra-is-dev.vercel.app) &nbsp;·&nbsp; [github.com/brighteyekid](https://github.com/brighteyekid) &nbsp;·&nbsp; [linkedin.com/in/chandrabhayal](https://linkedin.com/in/chandrabhayal)
+<div align="left">
+  <a href="https://chandra-is-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-chandra--is--dev.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
+<div align="left">
+  <a href="https://github.com/brighteyekid"><img src="https://img.shields.io/badge/GitHub-brighteyekid-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/chandrabhayal"><img src="https://img.shields.io/badge/LinkedIn-chandrabhayal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chandrabhayal1604@gmail.com"><img src="https://img.shields.io/badge/Email-chandrabhayal1604%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
 ---
 
