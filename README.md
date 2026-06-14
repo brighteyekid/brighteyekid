@@ -16,7 +16,7 @@ Shipped zero-dependency routing middleware with `701ns` overhead, a custom Debia
 
 `chandrabhayal1604@gmail.com` &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; [chandra-is-dev.vercel.app](https://chandra-is-dev.vercel.app)
 
-Currently building at **Superdesign** &nbsp;·&nbsp; Previously: **Durell Flooring** · **Studio56 Animation** · **Siemens**
+Contract engineer for production startups across Globe — **Durell Flooring** · **Studio56 Animation**
 
 ---
 
@@ -134,12 +134,6 @@ Bootable custom Linux distribution built from scratch on Debian 12. Five native 
 
 - Architected a high-performance, GPU-accelerated component library for an international animation studio (150+ artists, Netflix / Disney XD / BBC), delivering an editorial-grade frontend maintaining strict `60fps` across complex scroll-driven animations
 - Reduced LCP by `35%` through Next.js image optimisation, priority loading hints, and strategic code splitting validated via Core Web Vitals analysis
-
----
-
-**Siemens** &nbsp;·&nbsp; IoT Dashboard Engineering &nbsp;·&nbsp; `08 wks` &nbsp;·&nbsp; Remote
-
-Delivered production IoT dashboard interfaces for Siemens industrial systems.
 
 ---
 
