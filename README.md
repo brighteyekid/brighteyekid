@@ -1,96 +1,176 @@
-<!-- ANIMATED ROLE TEXT — red monospace, transparent bg -->
+<!-- FFEXP · 2026 · LEVEL 3 · ROGUE · NS · ACTIVE -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=3200&pause=900&color=CC0000&background=0D111700&center=true&vCenter=true&width=720&height=44&lines=FULL-STACK+PRODUCT+ENGINEER+%E2%80%94+CHENNAI%2C+IN;AI+SYSTEMS+%C2%B7+FROM+ZERO+TO+DEPLOYED+IN+8+WEEKS;SHIPPED%3A+RENDERMW+%C2%B7+AEGISCODE+%C2%B7+PAVITRA+OS;AVAILABLE+FOR+ROLES+%26+CONTRACTS+%E2%80%94+2026" alt="Typing SVG"/>
+![UNLEASHED](./header.png)
 
 </div>
 
-<!-- CINEMATIC BANNER -->
-<img src="banner.svg" width="100%" alt="Portfolio Banner — Full Stack Product Engineer"/>
-
-<br>
-
----
-
-**`002 — ACTIVE MISSIONS`**
-
-<!-- PROJECT CARDS — 3 public repos, dark themed -->
-<p align="center">
-  <a href="https://github.com/brighteyekid/rendermw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brighteyekid&repo=rendermw&theme=dark&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&border_color=0e1824&text_color=555575&hide_border=false" width="47%"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/brighteyekid/aegiscode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brighteyekid&repo=aegiscode&theme=dark&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&border_color=0e1824&text_color=555575&hide_border=false" width="47%"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/brighteyekid/pavitra-os">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brighteyekid&repo=pavitra-os&theme=dark&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&border_color=0e1824&text_color=555575&hide_border=false" width="47%"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/brighteyekid/durell">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brighteyekid&repo=durell&theme=dark&bg_color=0d1117&title_color=cc0000&icon_color=cc0000&border_color=0e1824&text_color=555575&hide_border=false" width="47%"/>
-  </a>
-</p>
-
-<br>
-
----
-
-**`003 — SYSTEMS & STACK`**
-
 <div align="center">
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,threejs,vite,tailwind,nodejs,express,nestjs,prisma&theme=dark&perline=10" alt="Stack row 1"/>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,python,docker,linux,aws,vercel,githubactions,figma,git&theme=dark&perline=10" alt="Stack row 2"/>
-
-<br>
+![CHANDRA BHAYAL](./banner.png)
 
 </div>
 
 <br>
 
 ```
-FRONTEND   React · Next.js · TypeScript · Three.js · React-Three-Fiber
-           Vite · Tailwind CSS · GSAP · Framer Motion
-
-BACKEND    Node.js · Express · NestJS · Prisma · PostgreSQL
-           MongoDB · SQLite · WebSockets · REST · JWT
-
-AI         MCP · Agentic Orchestration · Multi-Agent Systems
-           OpenAI · Gemini · Anthropic · Groq · RAG Pipelines · Python
-
-INFRA      Linux (Debian / Kali) · Docker · GitHub Actions
-           Vercel · AWS (EC2 · S3 · CloudFront) · Azure
-
-SECURITY   OWASP Top 10 · Burp Suite · Metasploit · Bot Detection
+001 — INITIALIZE
 ```
 
----
+**Founding Engineer. Full-Stack. AI-native. Ships fast.**
 
-**`004 — PRODUCTION LOG`**
+I build production-grade systems solo — from architecture to deployment, in weeks.
+Open-source author. Contract engineer for studios and startups across India.
+AI orchestration, high-performance frontends, and deep Linux infrastructure.
 
-| Period | Client | What Shipped |
-|---|---|---|
-| `Feb–May 2026` | **Durell Flooring** | End-to-end e-comm platform · 15-surface CMS · 117 pages indexed in 48h · rendermw born here |
-| `Dec 2025–Jan 2026` | **Studio56 Animation** | GPU-accelerated component library for Netflix/Disney XD/BBC pipeline · 60fps · LCP −35% |
-
----
-
-**`005 — CERTIFICATIONS`**
-
-`MIT SQUARE` — Cyber Intelligence in Robotics `2024` &nbsp;·&nbsp; `Southern Taiwan University` — Linux Server Programming `2024`
-
-`SRM Institute of Science and Technology` — B.Tech CS, AI & ML Specialisation, Expected `2027`
+Currently building at **Superdesign**.
+Previously: **Durell Flooring** · **Studio56 Animation** · **Siemens**.
 
 ---
 
-<!-- FOOTER -->
-<img src="footer.svg" width="100%" alt="Open Channel — Contact Footer"/>
+```
+002 — WHAT I BUILD
+```
+
+> *"I don't build features. I build things people actually use."*
+
+| Layer | Stack |
+|---|---|
+| **Frontend** | React · Next.js · Vite · TypeScript · Three.js · React Three Fiber · GSAP · Framer Motion |
+| **Backend** | Node.js · Express · NestJS · Prisma ORM · PostgreSQL · MongoDB · SQLite · WebSockets · JWT |
+| **AI Systems** | MCP · Agentic orchestration · Multi-agent pipelines · RAG · OpenAI · Gemini · Anthropic · Groq |
+| **Infrastructure** | Linux (Debian/Kali) · GRUB · systemd · Docker · GitHub Actions · Vercel · AWS · Azure |
+| **Security** | OWASP Top 10 · Burp Suite · Metasploit · Bot detection · VS Code Extension API |
+
+---
+
+<div align="center">
+
+![FIELD LOG — 003](./pixel_divider.png)
+
+</div>
+
+**`rendermw`** &nbsp;·&nbsp; `TypeScript · Node.js · Express · npm`
+
+Zero-dependency Express middleware solving SPA SEO — no Puppeteer, no paid services, no framework rewrites.
+Born directly from a production problem at [durell.in](https://durell.in). Then open sourced.
+
+- `701ns` overhead per real-user request
+- `108 tests` passing · `18kb` packed · `30+` bot signatures
+- Full TypeScript types · in-memory TTL cache · Schema.org JSON-LD builder
+- Auto-generating Prisma-backed `sitemap.xml` · `117 pages indexed in 48 hours`
+
+→ **[github.com/brighteyekid/rendermw](https://github.com/brighteyekid/rendermw)** · [rendermw.vercel.app](https://rendermw.vercel.app)
+
+---
+
+**`AegisCode`** &nbsp;·&nbsp; `TypeScript · NestJS · MCP · Gemini API · VS Code API · Next.js · Prisma · PostgreSQL`
+
+VS Code extension scanning AI-generated and manual code in real time for OWASP Top 10 vulnerabilities via a Model Context Protocol pipeline.
+Gemini reasons over code and calls 10 registered security tools — one per vulnerability class.
+
+- Findings surface as native VS Code diagnostic markers with severity-based inline underlines
+- Side-panel remediation UI · workspace bulk auditing · AI chat remediation bridge
+- NestJS/Prisma backend computing a live **Global Health Index** score
+- Next.js telemetry dashboard · real-time threat feed · historical risk trend charts
+- Turborepo monorepo
+
+→ **[github.com/AnjanyKumarJaiswal/AegisCode](https://github.com/AnjanyKumarJaiswal/AegisCode)**
+
+---
+
+**`Pavitra OS`** &nbsp;·&nbsp; `Debian 12 · live-build · Wine · Darling · Waydroid · Python/GTK3 · GRUB`
+
+Bootable custom Linux distribution built from scratch on Debian 12.
+Five native compatibility layers — all via a single GTK3 drag-and-drop launcher.
+
+| Ecosystem | Runtime |
+|---|---|
+| Windows `.exe` | Wine |
+| macOS `.app` | Darling |
+| Android `.apk` | Waydroid |
+| Linux ELF | Native |
+| Debian `.deb` | APT |
+
+Verified functional in QEMU and on real hardware.
+
+→ **[github.com/brighteyekid/Pavitra-OS](https://github.com/brighteyekid/Pavitra-OS)**
+
+---
+
+<div align="center">
+
+![ENGINEERING SCHEMATIC](./blueprint.png)
+
+</div>
+
+---
+
+```
+004 — FIELD EXPERIENCE
+```
+
+**Durell Flooring** &nbsp;·&nbsp; Contract Full-Stack &nbsp;·&nbsp; `Feb 2026 – May 2026` &nbsp;·&nbsp; Remote
+
+Owned end-to-end engineering for a production e-commerce platform — [durell.in](https://durell.in)
+
+- React/Vite SPA · Express/Prisma/SQLite backend · custom 15-surface CMS
+- Live draft-and-publish workflow · JWT auth · real-time Zoho CRM lead pipeline
+- Slug-based SEO URLs · Sharp image pipeline (`94% size reduction via WebP`)
+- HTTP 206 video streaming · Google Reviews carousel
+- Engineered zero-dependency bot-detection and semantic HTML rendering middleware
+- Schema.org JSON-LD per page type · `117 pages indexed in Search Console within 48 hours`
+- Subsequently open sourced as **rendermw**
+
+---
+
+**Studio56 Animation** &nbsp;·&nbsp; Contract Frontend &nbsp;·&nbsp; `Dec 2025 – Jan 2026` &nbsp;·&nbsp; Remote
+
+GPU-accelerated component library for an international animation studio.
+150+ artists · clients: Netflix · Disney XD · BBC
+
+- Editorial-grade frontend maintaining strict `60fps` across complex scroll-driven animations
+- LCP reduced `35%` via Next.js image optimisation, priority loading hints, code splitting
+- Validated via Core Web Vitals analysis
+
+---
+
+**Siemens** &nbsp;·&nbsp; IoT Dashboard Engineering &nbsp;·&nbsp; `08 wks` &nbsp;·&nbsp; Remote
+
+Delivered production IoT dashboard interfaces for Siemens industrial systems.
+
+---
+
+```
+005 — ESTABLISH CONTACT
+```
+
+**OPEN CHANNEL**
+
+`cb2117@srmist.edu.in` &nbsp;·&nbsp; Chennai, India &nbsp;·&nbsp; GMT+5:30
+
+● Available for founding engineer roles & contracts — 2026
+
+[chandra-is-dev.vercel.app](https://chandra-is-dev.vercel.app) &nbsp;·&nbsp; [github.com/brighteyekid](https://github.com/brighteyekid) &nbsp;·&nbsp; [linkedin.com/in/chandrabhayal](https://linkedin.com/in/chandrabhayal)
+
+---
+
+```
+006 — CREDENTIALS
+```
+
+`MIT SQUARE` — Cyber Intelligence in Robotics (2024)
+`Southern Taiwan University` — Linux Server Programming (2024)
+
+AI & ML · Computer Science Engineering · SRM Institute, Chennai
+
+---
+
+<div align="center">
+
+```
+AVAILABLE / BUILD FAST / CHANDRA BHAYAL / FULL-STACK PRODUCT ENGINEER / CHENNAI 2026
+```
+
+</div>
