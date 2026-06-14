@@ -1,0 +1,130 @@
+<svg width="900" height="480" viewBox="0 0 900 480" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0L0 0 0 30" fill="none" stroke="#0e141e" stroke-width="0.4"/>
+    </pattern>
+    <filter id="rshadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#cc0000" flood-opacity="0.25"/>
+    </filter>
+    <linearGradient id="redLine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#cc0000;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#660000;stop-opacity:1"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Base -->
+  <rect width="900" height="480" fill="#0d1117"/>
+  <rect width="900" height="480" fill="url(#g)"/>
+
+  <!-- Faded background section number -->
+  <text x="-8" y="448" font-family="Impact,'Arial Black',Arial,sans-serif" font-size="400" fill="#0b1019" opacity="1">01</text>
+
+  <!-- Diagonal speed lines -->
+  <g fill="none">
+    <line x1="455" y1="0" x2="900" y2="360" stroke="#cc0000" stroke-width="0.8" opacity="0.10"/>
+    <line x1="495" y1="0" x2="900" y2="316" stroke="#cc0000" stroke-width="0.4" opacity="0.13"/>
+    <line x1="535" y1="0" x2="900" y2="272" stroke="#cc0000" stroke-width="1.1" opacity="0.07"/>
+    <line x1="575" y1="0" x2="900" y2="228" stroke="#cc0000" stroke-width="0.5" opacity="0.11"/>
+    <line x1="415" y1="0" x2="900" y2="404" stroke="#cc0000" stroke-width="0.3" opacity="0.08"/>
+    <line x1="615" y1="0" x2="900" y2="184" stroke="#cc0000" stroke-width="0.7" opacity="0.09"/>
+    <line x1="655" y1="0" x2="900" y2="140" stroke="#ffffff" stroke-width="0.2" opacity="0.04"/>
+    <line x1="375" y1="0" x2="900" y2="448" stroke="#ffffff" stroke-width="0.2" opacity="0.03"/>
+  </g>
+
+  <!-- Left red accent bar with glow -->
+  <rect x="0" y="0" width="3" height="480" fill="url(#redLine)" filter="url(#rshadow)"/>
+
+  <!-- Animated scan line -->
+  <rect x="0" y="-2" width="900" height="1.5" fill="#cc0000" opacity="0.3">
+    <animate attributeName="y" from="-2" to="482" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0;0.3;0.3;0" keyTimes="0;0.01;0.03;0.96;1" dur="8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- TOP METADATA BAR -->
+  <line x1="16" y1="48" x2="884" y2="48" stroke="#0e1420" stroke-width="0.5"/>
+  <text x="16" y="34" font-family="'Courier New',Courier,monospace" font-size="9" fill="#232333" letter-spacing="3">001 — PORTFOLIO / 2026</text>
+  <text x="886" y="34" font-family="'Courier New',Courier,monospace" font-size="9" fill="#232333" letter-spacing="2" text-anchor="end">SYSTEMS / REF: 001</text>
+
+  <!-- Crosshair top-right -->
+  <line x1="848" y1="20" x2="876" y2="20" stroke="#131824" stroke-width="0.8"/>
+  <line x1="862" y1="6"  x2="862" y2="34" stroke="#131824" stroke-width="0.8"/>
+
+  <!-- Crosshair mid-left (like portfolio's + markers) -->
+  <line x1="395" y1="210" x2="415" y2="210" stroke="#131824" stroke-width="0.7"/>
+  <line x1="405" y1="200" x2="405" y2="220" stroke="#131824" stroke-width="0.7"/>
+
+  <!-- HERO TEXT -->
+  <text x="16" y="190" font-family="Impact,'Arial Black',Arial,sans-serif" font-size="116" font-weight="900" fill="#ffffff" letter-spacing="-2">PRODUCT</text>
+  <text x="16" y="308" font-family="Impact,'Arial Black',Arial,sans-serif" font-size="116" font-weight="900" fill="#ffffff" letter-spacing="-2">ENGINEER.</text>
+
+  <!-- Red underline accent -->
+  <rect x="16" y="322" width="130" height="3" fill="#cc0000"/>
+
+  <!-- Role / location descriptor -->
+  <text x="16" y="355" font-family="'Courier New',Courier,monospace" font-size="10" fill="#2e2e4e" letter-spacing="4">FULL STACK  ·  AI SYSTEMS  ·  CHENNAI, IN</text>
+
+  <!-- Italic quote -->
+  <text x="16" y="389" font-family="Georgia,'Times New Roman',serif" font-size="12" font-style="italic" fill="#252535">"I don't build features. I build things people actually use."</text>
+
+  <!-- Blinking availability dot + text -->
+  <circle cx="16" cy="447" r="4.5" fill="#cc0000">
+    <animate attributeName="opacity" values="1;0.08;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <text x="32" y="452" font-family="'Courier New',Courier,monospace" font-size="9" fill="#232333" letter-spacing="2">AVAILABLE FOR ROLES &amp; CONTRACTS — 2026</text>
+
+  <!-- TELEMETRY PANEL (right side) -->
+  <rect x="592" y="60" width="292" height="372" fill="#080c14" stroke="#0e1824" stroke-width="1"/>
+
+  <!-- Panel header -->
+  <rect x="592" y="60" width="292" height="28" fill="#0b1120"/>
+  <line x1="592" y1="88" x2="884" y2="88" stroke="#0e1824" stroke-width="0.5"/>
+  <text x="604" y="78" font-family="'Courier New',Courier,monospace" font-size="7.5" fill="#1e2e3e" letter-spacing="3">TELEMETRY — LIVE METRICS</text>
+  <!-- Blinking panel dot -->
+  <circle cx="873" cy="74" r="3.5" fill="#cc0000">
+    <animate attributeName="opacity" values="0.9;0.1;0.9" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- METRIC 1: middleware overhead -->
+  <text x="604" y="112" font-family="'Courier New',Courier,monospace" font-size="7" fill="#1a2a3a" letter-spacing="2">MIDDLEWARE OVERHEAD</text>
+  <text x="604" y="139" font-family="Impact,'Arial Black',sans-serif" font-size="36" fill="#cc0000">701ns</text>
+  <text x="746" y="139" font-family="'Courier New',Courier,monospace" font-size="6.5" fill="#141e2e">zero deps · rendermw</text>
+  <line x1="592" y1="150" x2="884" y2="150" stroke="#0e1824" stroke-width="0.5"/>
+  <!-- Annotation pointer -->
+  <line x1="592" y1="120" x2="572" y2="120" stroke="#cc0000" stroke-width="0.8" opacity="0.45"/>
+  <circle cx="570" cy="120" r="2.5" fill="#cc0000" opacity="0.45"/>
+
+  <!-- METRIC 2: pages indexed -->
+  <text x="604" y="170" font-family="'Courier New',Courier,monospace" font-size="7" fill="#1a2a3a" letter-spacing="2">PAGES INDEXED / 48 HOURS</text>
+  <text x="604" y="197" font-family="Impact,'Arial Black',sans-serif" font-size="36" fill="#cc0000">117</text>
+  <text x="660" y="197" font-family="'Courier New',Courier,monospace" font-size="6.5" fill="#141e2e">search console · durell</text>
+  <line x1="592" y1="208" x2="884" y2="208" stroke="#0e1824" stroke-width="0.5"/>
+
+  <!-- METRIC 3: LCP reduction -->
+  <text x="604" y="227" font-family="'Courier New',Courier,monospace" font-size="7" fill="#1a2a3a" letter-spacing="2">LCP REDUCTION</text>
+  <text x="604" y="254" font-family="Impact,'Arial Black',sans-serif" font-size="36" fill="#cc0000">−35%</text>
+  <text x="700" y="254" font-family="'Courier New',Courier,monospace" font-size="6.5" fill="#141e2e">studio56 · next.js</text>
+  <line x1="592" y1="265" x2="884" y2="265" stroke="#0e1824" stroke-width="0.5"/>
+  <!-- Annotation pointer -->
+  <line x1="592" y1="240" x2="572" y2="240" stroke="#cc0000" stroke-width="0.8" opacity="0.3"/>
+  <circle cx="570" cy="240" r="2.5" fill="#cc0000" opacity="0.3"/>
+
+  <!-- METRIC 4: image compression -->
+  <text x="604" y="284" font-family="'Courier New',Courier,monospace" font-size="7" fill="#1a2a3a" letter-spacing="2">IMAGE PAYLOAD CUT</text>
+  <text x="604" y="311" font-family="Impact,'Arial Black',sans-serif" font-size="36" fill="#cc0000">94%</text>
+  <text x="657" y="311" font-family="'Courier New',Courier,monospace" font-size="6.5" fill="#141e2e">webp/sharp pipeline</text>
+  <line x1="592" y1="322" x2="884" y2="322" stroke="#0e1824" stroke-width="0.5"/>
+
+  <!-- METRIC 5: test coverage -->
+  <text x="604" y="340" font-family="'Courier New',Courier,monospace" font-size="7" fill="#1a2a3a" letter-spacing="2">TESTS PASSING</text>
+  <text x="604" y="367" font-family="Impact,'Arial Black',sans-serif" font-size="36" fill="#cc0000">108/108</text>
+  <line x1="592" y1="378" x2="884" y2="378" stroke="#0e1824" stroke-width="0.5"/>
+
+  <!-- METRIC 6: fps -->
+  <text x="604" y="396" font-family="'Courier New',Courier,monospace" font-size="7" fill="#1a2a3a" letter-spacing="2">SCROLL ANIMATION TARGET</text>
+  <text x="604" y="420" font-family="Impact,'Arial Black',sans-serif" font-size="36" fill="#cc0000">60fps</text>
+  <text x="682" y="420" font-family="'Courier New',Courier,monospace" font-size="6.5" fill="#141e2e">gpu accel · studio56</text>
+
+  <!-- Bottom rule -->
+  <line x1="0" y1="474" x2="900" y2="474" stroke="#0e1420" stroke-width="0.8"/>
+  <text x="886" y="471" font-family="'Courier New',Courier,monospace" font-size="7" fill="#111120" text-anchor="end" letter-spacing="1">CHANDRA-IS-DEV.VERCEL.APP</text>
+</svg>
